@@ -1,10 +1,10 @@
 ### Привет 👋 меня зовут Алексей
-**iOS-разработчик**
+**Я занимаюсь iOS-разработкой**
 
 ### Мои навыки
 ```
-Swift
-iOS SDK: UIKit, CoreData, XCTest
+Swift, Combine
+UIKit, CoreData, XCTest
 Git, GitLab, GitHub
 SPM, CocoaPods
 YandexMobileMetrica
