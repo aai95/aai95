@@ -3,8 +3,8 @@
 
 ### Мои навыки
 ```
-Swift, Combine
-UIKit, CoreData, XCTest
+Swift, UIKit, Combine
+CoreData, SpriteKit, XCTest
 Git, GitLab, GitHub
 SPM, CocoaPods
 YandexMobileMetrica
